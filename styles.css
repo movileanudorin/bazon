@@ -1,0 +1,29 @@
+
+h1 {
+  text-align: center;
+
+
+
+}
+
+.data-item input {
+ 
+  width: 100%;
+  padding: 36px 30px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  
+}
+
+
+.nameLabel {
+ 
+  width: 100%;
+  padding: 36px 30px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  
+}
+
